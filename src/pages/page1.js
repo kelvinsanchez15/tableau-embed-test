@@ -17,17 +17,17 @@ function TestPage() {
       <div>
         <tableau-viz
           id='tableauViz'
-          src='https://public.tableau.com/views/CrimeVictim_17059391178000/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link'
+          src='https://public.tableau.com/views/BigGameCensus2024/BigGameCensus?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
         />
         {/* @ts-expect-error This is a Web Component */}
         <tableau-viz
           id='tableauViz'
-          src='https://public.tableau.com/views/CrimeOffender_17059391850310/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link'
+          src='https://public.tableau.com/views/AnthonyBourdainTravels_17056586957790/viz?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
         />
         {/* @ts-expect-error This is a Web Component */}
         <tableau-viz
           id='tableauViz'
-          src='https://public.tableau.com/views/CrimeOffender_17059391850310/Dashboard3?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link'
+          src='https://public.tableau.com/views/JustBeYourself-DataPlusMovies/ActionJustBeYourself?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
         />
       </div>
     </>

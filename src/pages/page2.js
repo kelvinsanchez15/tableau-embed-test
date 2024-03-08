@@ -18,17 +18,17 @@ function TestPage2() {
         {/* @ts-expect-error This is a Web Component */}
         <tableau-viz
           id='tableauViz'
-          src='https://public.tableau.com/views/TrafficStops_17059399605060/Dashboard7?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
+          src='https://public.tableau.com/views/AnimalRights_17092289911360/AnimalRights?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
         />
         {/* @ts-expect-error This is a Web Component */}
         <tableau-viz
           id='tableauViz'
-          src='https://public.tableau.com/views/TrafficStops_17059399605060/Dashboard8?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
+          src='https://public.tableau.com/views/SanDiegosBlackPopulation/Viz?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
         />
         {/* @ts-expect-error This is a Web Component */}
         <tableau-viz
           id='tableauViz'
-          src='https://public.tableau.com/views/TrafficStops_17059399605060/Dashboard9?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
+          src='https://public.tableau.com/views/DescendantsoftheDragon/Map?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'
         />
       </div>
     </>
